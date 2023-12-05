@@ -96,6 +96,17 @@ li{
 }
 .sublista2 a {
    color: rgb(8, 0, 0);
+
+}
+main{
+   width: 70%;
+   padding: 20px;
+   float: left;
+   box-sizing: border-box;
+}
+main img{
+   width: 100%;
+   height: auto;
 }
 .vida{
    width: 100%;
@@ -152,7 +163,7 @@ li{
    font-size:40px;
    color: rgb(196, 11, 11);
    transition: 2000ms;
-   text-shadow: 60px 60px 60px cyan;
+   text-shadow: 60px 60px 60px cyan;
 }
 
 
